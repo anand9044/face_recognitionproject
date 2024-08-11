@@ -1,3 +1,4 @@
+#Face Recognition Project
 Face Detection Using OpenCV
 Project Description
 This project implements a face detection system using OpenCV's Haar Cascades. The system can accurately identify and locate faces in images or videos, making it suitable for various applications such as security systems, photo management, and real-time monitoring.
